@@ -2,6 +2,5 @@
       1 flying fish
       2 marlin
       3 shark
-      1 Species
       1 tuna
       1 turtle
