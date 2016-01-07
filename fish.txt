@@ -6,3 +6,5 @@ Date,Species,Count
 2015-08-30,flying fish,1
 2015-08-30,cod,4
 2015-08-31,turtle,1
+2015-08-31,marlin,2
+2015-08-31,shark,1
