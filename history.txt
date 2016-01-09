@@ -1,0 +1,103 @@
+    1  cd EchelonPlanner/
+    2  git status
+    3  git status
+    4  git add src/app/management/commands/preRequisites400Level.py
+    5  git status
+    6  git checkout *.pyc
+    7  git status
+    8  rm src/app/subsystem/schedule/preferences/__init__.py
+    9  git status
+   10  git commit -m "200level courses as the pre-requisites for 400 level courses"
+   11  git pull
+   12  git pull
+   13  git pull
+   14  git status
+   15  git push
+   16  git pull
+   17  git status
+   18  git pull
+   19  gitk &
+   20  git stash views.py
+   21  git pull
+   22  git status
+   23  git stash src/app/views.py
+   24  git-stash src/app/views.py
+   25  git stash src/app/views.py
+   26  git stash src/app/views.py
+   27  git stash 
+   28  git status
+   29  git pull
+   30  git status
+   31  git push
+   32  git status
+   33  git add testing/automation/change_email.py testing/automation/change_password.py testing/automation/modify_details.py
+   34  git status
+   35  git commit -m "Added Automation Files"
+   36  git pull
+   37  git push
+   38  gitk  &
+   39  git staus
+   40  git status
+   41  git lof
+   42  git log
+   43  itt
+   44  exit
+   45  cd MiniCapstone_Project2/
+   46  git status
+   47  git add --all
+   48  git pull
+   49  git stash --all
+   50  git status
+   51  git pull
+   52  git stash
+   53  git status
+   54  git pull
+   55  git diff
+   56  git log
+   57  i 
+   58  git dff
+   59  exit
+   60  ls
+   61  dir
+   62  LS -ALL
+   63  ls -all
+   64  cd..
+   65  cd ..
+   66  cd Nitesh/
+   67  git clone https://github.com/dimanovi/tutorial
+   68  cd tutorial/
+   69  git status
+   70  git branch -all
+   71  git branch --all
+   72  whoami
+   73  whereami
+   74  pwd
+   75  tree -
+   76  ls 
+   77  ls --all
+   78  ls /c
+   79  ls /home
+   80  ls /home/
+   81  ls /c/Users/Nitesh/
+   82  ls -F
+   83  ls /c/Users/Nitesh/ -F
+   84  ls -tr
+   85  ls --all
+   86  cd .
+   87  vim fish.txt
+   88  nano fish.txt
+   89  wc -l
+   90  wc -l fish.txt 
+   91  head fish.txt 
+   92  head -5 fish.txt 
+   93  tail fish.txt 
+   94  cat fish.txt 
+   95  cat fish.txt matt.txt 
+   96  head -5 -8 fish.txt 
+   97  head --help
+   98  head -8 fish.txt  > temp.txt
+   99  cat temp.txt 
+  100  tail -4 temp.txt 
+  101  history
+  102  historY > history.txt
+  103  history > history.txt
